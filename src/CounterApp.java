@@ -1,5 +1,3 @@
-public class Lesson8 {
-}
 public class CounterApp extends JFrame {
     private int value;
     public CounterApp(int initialValue) {
@@ -38,4 +36,3 @@ public class CounterApp extends JFrame {
     public static void main(String[] args) {
         new CounterApp(0);
     }
-}
